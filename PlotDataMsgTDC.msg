@@ -1,0 +1,14 @@
+Header header
+geometry_msgs/Vector3 u0
+geometry_msgs/Vector3 posn
+geometry_msgs/Vector3 N_cap
+geometry_msgs/Vector3 acceleration
+geometry_msgs/Vector3 angular_acceleration
+geometry_msgs/Vector3 position_error
+geometry_msgs/Vector3 velocity_error
+geometry_msgs/Vector3 position_error_integral
+geometry_msgs/Vector3 angle_error
+geometry_msgs/Vector3 angle_rate_error
+geometry_msgs/Vector3 delTau
+float64 thrust
+float64 M_hat
